@@ -1,2 +1,3 @@
 "Search feature" 
 "Search feature 1" 
+"Search feature 2" 
