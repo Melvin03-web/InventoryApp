@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-"Main branch change" 
-=======
 "Feature branch change" 
->>>>>>> efc5d41 (Feature change)
+"Feature C" 
+"Feature D" 
+"Feature E" 
